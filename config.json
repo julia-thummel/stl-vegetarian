@@ -212,11 +212,11 @@
     "@pager-active-color": "@pagination-active-color",
     "@pager-disabled-color": "@pagination-disabled-color",
     "@jumbotron-padding": "30px",
-    "@jumbotron-color": "inherit",
+    "@jumbotron-color": "#32AF5A",
     "@jumbotron-bg": "@gray-lighter",
-    "@jumbotron-heading-color": "inherit",
-    "@jumbotron-font-size": "ceil((@font-size-base * 1.5))",
-    "@jumbotron-heading-font-size": "ceil((@font-size-base * 4.5))",
+    "@jumbotron-heading-color": "white",
+    "@jumbotron-font-size": "ceil((@font-size-base * 1.8))",
+    "@jumbotron-heading-font-size": "ceil((@font-size-base * 5))",
     "@state-success-text": "#3c763d",
     "@state-success-bg": "#dff0d8",
     "@state-success-border": "darken(spin(@state-success-bg, -10), 5%)",
@@ -431,5 +431,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=e06808425a47a7e9c3dd4b81c74c5f6b"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=66e2e584e9fe45ee4862b16cf086b01c"
 }

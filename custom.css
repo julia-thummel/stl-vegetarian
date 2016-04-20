@@ -19,3 +19,29 @@ body {
 .top {
   float: inherit;
 }
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+.jumbotron {
+  background-color: #2b954d;
+  border-radius: 10px;
+}
+
+.white {
+  color: white;
+}
+
+.secondary-content {
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: #D6FFD4;
+  padding-top: 30px;
+}
+
+.panel-title {
+  font-size: 20pt;
+}
