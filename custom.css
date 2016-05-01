@@ -21,9 +21,8 @@ body {
 }
 
 .center {
-  margin-left: auto;
-  margin-right: auto;
-  width: 30%;
+  text-align: center;
+  margin: auto;
 }
 
 .jumbotron {
@@ -38,10 +37,40 @@ body {
 .secondary-content {
   padding-left: 50px;
   padding-right: 50px;
-  background-color: #D6FFD4;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #93C494;
   padding-top: 30px;
+  border-radius: 10px;
+  background-image: url(IMAGES/background.jpg);
+}
+
+.header {
+  padding-top: 10px;
+  padding-left: 20px;
+  background-color: #82bc7a;
 }
 
 .panel-title {
   font-size: 20pt;
+}
+
+.padding {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.margin {
+  margin-top: 20px;
+}
+
+.carousel {
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+.butn {
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-bottom: 15px;
 }
